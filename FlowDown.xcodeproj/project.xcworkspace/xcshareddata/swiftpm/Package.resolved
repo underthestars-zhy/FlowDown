@@ -1,0 +1,51 @@
+{
+  "originHash" : "44709509fb6ddccf6c600f0330f7245df9ed2ffd45cd8e56ef47b49ad5c2b321",
+  "pins" : [
+    {
+      "identity" : "down",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iwasrobbed/Down",
+      "state" : {
+        "revision" : "f34b166be1f1db4aa8f573067e901d72f2a6be57",
+        "version" : "0.11.0"
+      }
+    },
+    {
+      "identity" : "parma",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dasautoooo/Parma",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3c8b431fd5ad3cf675c60d0aa89f011cbcbb036c"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect",
+      "state" : {
+        "revision" : "18e965f867e37a558ad13c12d330dbe047099180",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "swiftui-markdown",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jaywcjlove/swiftui-markdown",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c7e1dd8226cd788a4dd5c654b98e672916c9e96d"
+      }
+    },
+    {
+      "identity" : "swiftuix",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftUIX/SwiftUIX",
+      "state" : {
+        "revision" : "a5a22a1aaca885c229f475af049d75a6d9144de8",
+        "version" : "0.1.9"
+      }
+    }
+  ],
+  "version" : 3
+}
